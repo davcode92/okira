@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/okira/static/css/main.d62ff751.css",
+    "main.js": "/okira/static/js/main.05a9382e.js",
+    "static/js/453.b6d2bc61.chunk.js": "/okira/static/js/453.b6d2bc61.chunk.js",
+    "index.html": "/okira/index.html",
+    "main.d62ff751.css.map": "/okira/static/css/main.d62ff751.css.map",
+    "main.05a9382e.js.map": "/okira/static/js/main.05a9382e.js.map",
+    "453.b6d2bc61.chunk.js.map": "/okira/static/js/453.b6d2bc61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d62ff751.css",
+    "static/js/main.05a9382e.js"
+  ]
+}
